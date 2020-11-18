@@ -4,7 +4,7 @@ import { elements } from './views/base';
 
 /**Global state of the app
  * - Search object
- * - Current recipe object
+ * - Current recipe object 
  * - Shopping list object
  * - Liked recipes
 */
